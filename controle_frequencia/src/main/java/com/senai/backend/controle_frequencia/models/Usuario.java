@@ -25,6 +25,9 @@ public class Usuario {
 
     
     //construtor padrão
+    /**
+     * 
+     */
     public Usuario() {
     
     
